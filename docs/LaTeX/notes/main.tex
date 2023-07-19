@@ -1,0 +1,81 @@
+\documentclass[a4paper]{article} 
+\input{head}
+\newcommand{\pow}[2]{#1^{#2}}
+\newcommand{\supra}[1]{\textsuperscript{#1}}
+\begin{document}
+
+%-------------------------------
+%	TITLE SECTION
+%-------------------------------
+
+\fancyhead[C]{}
+\hrule \medskip % Upper rule
+\begin{minipage}{0.295\textwidth} 
+\raggedright
+\footnotesize
+Fausto David Hernández Jasso \hfill\\   
+317000928 \hfill\\
+fausto.david.hernandez.jasso@ciencias.unam.mx
+\end{minipage}
+\begin{minipage}{0.4\textwidth} 
+\centering 
+\large 
+Notes\\ 
+\normalsize 
+Supervised Machine Learning: Regression and Classification\\ 
+\end{minipage}
+\begin{minipage}{0.295\textwidth} 
+\raggedleft
+\today\hfill\\
+\end{minipage}
+\medskip\hrule 
+\bigskip
+\section{Introduction}
+\subsection{What is machine learning?}
+\noindent
+According to \textbf{Arthur Samuel} is: "Field of study that gives computers
+the ability to learn without being explicitly programmed."
+\subsection{Classification of machine learning algorithms}
+\noindent
+\begin{itemize}
+    \item Supervised learning.
+    \item Unsupervised learning.
+    \item Recommender systems.
+    \item Reinforcement learning.
+\end{itemize}
+\subsection{Supervised Learning}
+\noindent
+It refers to algorithms that learn \(x\) to \(y\) or input to output mappings.
+The key characteristic of supervised learning is that you give your learning 
+algorithm examples to learn from that includes the \textit{right answers}.
+This it means the correct label \(y\) for a given input \(x\).
+\subsubsection{Housing price prediction}
+\noindent
+We want to predict housing prices based on the size of the house.
+\subsubsection{Regression}
+\noindent
+In this type of supervised learning we are trying to predict a number from infinitely 
+many possible numbers.
+\subsubsection{Classification}
+\noindent
+This kind of algorithm predicts categories. Categories don't have to be numbers.
+\subsection{Unsupervised Learning}
+\noindent
+In these kind of algorithms were given data that isn't associated with any output
+lables \(y\). Our goal is finding something interesting in unlabeled data. We are not trying to
+supervised the algorithm to give some quote right answer for every input, instead we asked the 
+algorithm to figure out all by itself. 
+\subsubsection{Formal definition}
+\noindent
+Data only comes with inputs \(x\), but not output labels \(y\). Algorithm has to find a structure.
+\subsubsection{Clustering algorithms}
+\noindent
+It takes data without label and tries to automatically group them into clusters.
+\subsubsection{Anomaly detection}
+\noindent
+Find unusual effects.
+\subsubsection{Dimensionaly reduction}
+\noindent
+This algorithm let you take a big data set and compress it to a much smaller data set lossing 
+little information as possible.
+\end{document}
