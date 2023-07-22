@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.18)  18 JUL 2023 22:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.18)  22 JUL 2023 15:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1253,29 +1253,29 @@ LaTeX Font Info:    Trying to load font information for TS1+bch on input line 41
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 ) [1
 
-{C:/Users/faust/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (c:\Users\faust\Documents\Supervised_Machine_Learning_Regression_and_Classification\supervised-machine-learning\docs\LaTeX\notes\build\main.aux)
+{C:/Users/faust/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2] (c:\Users\faust\Documents\Supervised_Machine_Learning_Regression_and_Classification\supervised-machine-learning\docs\LaTeX\notes\build\main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-06-30>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 49A90716BB8D5457B79C9714F40B5FFF;2023.
+(rerunfilecheck)             Checksum: 3AEC3D65052E426E012248901E2097CE;2914.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 38393 strings out of 475551
- 743212 string characters out of 5762554
+ 38423 strings out of 475551
+ 743614 string characters out of 5762554
  1932238 words of memory out of 5000000
- 58857 multiletter control sequences out of 15000+600000
- 578977 words of font info for 102 fonts, out of 8000000 for 9000
+ 58868 multiletter control sequences out of 15000+600000
+ 582040 words of font info for 111 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  104i,11n,104p,1217b,2463s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on c:\Users\faust\Documents\Supervised_Machine_Learning_Regression_and_Classification\supervised-machine-learning\docs\LaTeX\notes\build\main.pdf (1 page, 61531 bytes).
+<C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/faust/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on c:\Users\faust\Documents\Supervised_Machine_Learning_Regression_and_Classification\supervised-machine-learning\docs\LaTeX\notes\build\main.pdf (2 pages, 103145 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 34413 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 40597 words of extra memory for PDF output out of 42996 (max. 10000000)
 
