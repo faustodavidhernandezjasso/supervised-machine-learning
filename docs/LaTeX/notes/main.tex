@@ -103,5 +103,28 @@ For representing the learning function we use
 \subsection{Linear Regression with one variable or univariate linear regression}
 \noindent
 Is a single input variable or feature \(x\).
-
+\subsection{Cost function}
+\noindent
+It will tell us how well the model is doing. We have a training set that contains input 
+features \(x\) and output targets \(y\). The model we are going to use to fit this training set
+is this linear function:
+\[
+    f_{w,b}\left(x\right) = wx + b  
+\]
+\(w\) and \(b\) are called parameters of the model.
+\newline 
+\(b\) is also called the \(y\) intercep because crossed the vertical axis. The value of \(w\) give us 
+the slope of the line. In linear regression we want to do is to choose values for \(w\) and \(b\) so
+that straight line you get from the function \(f\) somehow fits the data well.
+\[
+    \hat{y} = f_{w,b}\left(x^{(i)}\right)  
+\]
+The \textbf{cost function} takes the prediction \(\hat{y}\) and compares it to the target \(y\) by
+taking \(\hat{y} - y\) this called the error.
+\newline
+The final \textbf{cost function} is:
+\[
+    J\left(w, b\right) = \frac{1}{m} \sum_{i = 1}^{m}\left(\hat{y}^{(i)} - y^{(i)}\right)^2  
+\]
+this \textbf{cost function} is called squared error.
 \end{document}
